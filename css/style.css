@@ -128,7 +128,7 @@
   font-weight: 700;
 }
 
-.highlight {
+/* .highlight {
   position: relative;
 }
 
@@ -144,7 +144,7 @@
   opacity: 0.7;
   transform: scale(1.07, 1.05) skewX(-15deg);
   background-image: linear-gradient(to top left, #39b385, #63b992);
-}
+} */
 
 /***************/
 /*TEAM SECTION*/
